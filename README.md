@@ -6,4 +6,6 @@ Se dejó igual la parte de mandar datos del formulario (reservar) y limpiar las 
 
 NOTA: Aunque sí cuento con una versión propia del laboratorio 8 para la elaboración de este, se usó la versión oficial de la solución para más consistencia.
 
+La versión en vivo de este laboratorio se encuentra en https://shielded-woodland-72632.herokuapp.com
+
 Carlos Gerardo Herrera Cortina - A00821946
